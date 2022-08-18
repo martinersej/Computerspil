@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LogPlayer
+comment0.text=\r\n\ Models\ a\ Player\ which\ chooses\ its\ path\ based\ on\ a\ log\ (replaying\ a\ GUI\ player).\r\n\ @author\ Nikolaj\ Ignatieff\ Schwartzbach.\ \r\n\ @version\ December\ 2020.\r\n
+comment1.params=log\ pos
+comment1.target=LogPlayer(Log,\ Position)
+comment1.text=\r\n\ Instantiates\ a\ new\ LogPlayer\ from\ a\ given\ log\ at\ a\ given\ position.\r\n\ @param\ log\ \ \ Log\ to\ be\ replayed.\r\n\ @param\ pos\ \ \ Position\ of\ this\ LogPlayer.\r\n
+comment2.params=
+comment2.target=boolean\ step()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+numComments=5

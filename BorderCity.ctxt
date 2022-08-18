@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BorderCity
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ BorderCity\ her.\r\n\ \r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 2021-11-28\r\n
+comment1.params=name\ value\ country
+comment1.target=BorderCity(java.lang.String,\ int,\ Country)
+comment1.text=\r\n\ Denne\ metode\ opretter\ vores\ gr\u00E6nse\ objekt\ ud\ fra\ 3\ forskellige\ argumenter.\r\n\ \r\n\ @param\ name\ \ Gr\u00E6nsens\ navn.\r\n\ @param\ value\ \ Gr\u00E6nsens\ v\u00E6rdi.\r\n\ @param\ country\ \ Gr\u00E6nsens\ land.\r\n
+comment2.params=p
+comment2.target=int\ arrive(Player)
+comment2.text=\r\n\ Denne\ metode\ returner\ vores\ ankomst\ bonus,\ hvor\ der\ beregnes\ told\ og\ tr\u00E6kkes\ fra\ hvis\ vi\ ankommer\ fra\ et\ andet\ land.\r\n\ \r\n\ @param\ \ p\ \ Spilleren\r\n\ @return\ int\ \ \ Ankomst\ bonussen\ hvor\ told\ er\ trukket\ fra,\ hvis\ vi\ ankommer\ fra\ et\ andet\ land\ ellers\ tr\u00E6kkes\ told\ ikke\ fra.\ \r\n
+numComments=3

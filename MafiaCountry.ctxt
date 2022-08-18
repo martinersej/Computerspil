@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MafiaCountry
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ MafiaCountry\ her.\r\n\ \r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 2021-11-28\r\n
+comment1.params=name
+comment1.target=MafiaCountry(java.lang.String)
+comment1.text=\r\n\ Denne\ metode\ opretter\ vores\ Mafialand\ objekt\ ud\ fra\ navnet.\r\n\ \r\n\ @param\ name\ \ Mafialandets\ navn.\r\n
+comment2.params=value
+comment2.target=int\ bonus(int)
+comment2.text=\r\n\ Denne\ metode\ returner\ vores\ bonus\ eller\ tab,\ n\u00E5r\ vi\ bes\u00F8ger\ et\ Mafialand.\r\n\ \r\n\ @param\ \ value\ \ Bonussen\ fra\ landet.\r\n\ @return\ int\ \ \ Returner\ vores\ tab\ eller\ bonus,\ det\ afh\u00E6nger\ af\ de\ 20%\ om\ vi\ bliver\ r\u00F8vet.\ \r\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RoadTest
+comment0.text=\r\n\ Testklassen\ RoadTest.\r\n\r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 22-11-2021\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Ops\u00E6t\ test-fixtures.\r\n\r\n\ Kaldt\ f\u00F8r\ hver\ testmetode.\r\n
+comment2.params=
+comment2.target=void\ constructor()
+comment3.params=
+comment3.target=void\ testToString()
+numComments=4

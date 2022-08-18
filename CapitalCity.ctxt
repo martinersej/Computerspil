@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CapitalCity
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ CapitalCity\ her.\r\n\ \r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 2021-11-28\r\n
+comment1.params=name\ value\ country
+comment1.target=CapitalCity(java.lang.String,\ int,\ Country)
+comment1.text=\r\n\ Denne\ metode\ opretter\ vores\ hovedstad\ objekt\ ud\ fra\ 3\ forskellige\ argumenter.\r\n\ \r\n\ @param\ name\ \ Hovedstadens\ navn.\r\n\ @param\ value\ \ Hovedstadens\ v\u00E6rdi.\r\n\ @param\ country\ \ Hovedstadens\ land.\r\n
+comment2.params=p
+comment2.target=int\ arrive(Player)
+comment2.text=\r\n\ Denne\ metode\ returner\ vores\ ankomst\ bonus,\ hvor\ der\ beregnes\ told\ og\ tr\u00E6kkes\ fra,\ hvis\ spilleren\ har\ penge.\r\n\ \r\n\ @param\ \ p\ \ Spilleren\r\n\ @return\ int\ \ \ Bonus\ og\ told,\ hvor\ fees\ tr\u00E6kkes\ fra.\ \r\n
+numComments=3

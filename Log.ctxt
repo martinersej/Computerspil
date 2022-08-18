@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Log\ her.\r\n\ \r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 2021-12-12\r\n
+comment1.params=seed\ settings
+comment1.target=Log(int,\ Settings)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Log\r\n
+comment2.params=
+comment2.target=int\ getSeed()
+comment3.params=
+comment3.target=Settings\ getSettings()
+comment4.params=step
+comment4.target=java.lang.String\ getChoice(int)
+comment5.params=step\ city
+comment5.target=void\ add(int,\ City)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MafiaCountryTest
+comment0.text=\r\n\ Testklassen\ MafiaCountryTest.\r\n\r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versionsnummer\ eller\ dato\ her)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Ops\u00E6t\ test-fixtures.\r\n\r\n\ Kaldt\ f\u00F8r\ hver\ testmetode.\r\n
+comment2.params=
+comment2.target=void\ bonus()
+numComments=3
